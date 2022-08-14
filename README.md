@@ -1,7 +1,7 @@
 # blackhat-usa-2022-demos
 Demos for the Blackhat USA 2022 talk "Taking Kerberos to the Next Level".
 
-This is the slides and demos for James Forshaw ([@tiraniddo](https://twitter.com/tiraniddo)) and Nick Lander ([@monoxgas](https://twitter.com/monoxgas)) presentation. The demos are as follows:
+This is the slides and demos for James Forshaw ([@tiraniddo](https://twitter.com/tiraniddo)) and Nick Landers ([@monoxgas](https://twitter.com/monoxgas)) presentation. The demos are as follows:
 
 * demo1.ps1 - Silver ticket with password.
 * demo2.ps1 - Silver ticket U2U.
